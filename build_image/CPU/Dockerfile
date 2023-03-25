@@ -1,4 +1,4 @@
-FROM jerryzj/dev_basic:latest
+FROM andyhsu10/dev_basic:latest
 # You may use other base images instead
 # The following steps are enabling ssh service and setup
 # default root login password

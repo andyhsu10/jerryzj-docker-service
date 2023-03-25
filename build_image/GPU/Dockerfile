@@ -1,4 +1,4 @@
-FROM jerryzj/dev_basic_gpu:latest
+FROM andyhsu10/dev_basic_gpu:latest
 # You may use other base images instead
 # The following steps are enabling ssh service and setup
 # default root login password
